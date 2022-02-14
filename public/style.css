@@ -1,0 +1,24 @@
+body {
+  background-image: url('./watermelon.jpg');
+  background-size: cover;
+    text-align: center;
+    position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+  overflow: hidden;
+  
+}
+input, button {
+  background-color: lightseagreen;
+  border-radius: 6px;
+  border-color: black;
+    border: 2px solid teal;
+}
+* {
+  font-family: 'Short Stack', cursive;
+}
+::placeholder {
+  text-align: center;
+}
