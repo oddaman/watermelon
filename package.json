@@ -1,7 +1,7 @@
 {
-  "name": "Watermelon",
+  "name": "Meowmaster",
   "version": "1.0.0",
-  "description": "A simple frontend design for Corrosion you can deploy",
+  "description": "Made By MeowMaster",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
